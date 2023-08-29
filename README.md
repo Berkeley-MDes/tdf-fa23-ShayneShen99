@@ -41,3 +41,4 @@ PPS:
 - [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
 
+Change image naming to date: year_month_day
