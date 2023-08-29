@@ -2,7 +2,7 @@
 ## Shayne Shen, Technology Design Foundation
 
 ### Week 1 - 
-### Week 2 🔗
+### [Week 2 🔗](https://pages.github.com/)
 
 
 ## Quick Links for Shayne's convenience: ##
