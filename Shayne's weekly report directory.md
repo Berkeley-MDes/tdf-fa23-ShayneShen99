@@ -7,6 +7,7 @@
 ### [Week 4 👑](weekly-reports/2023_09_12_week_4.md)
 
 ### [Week 5 🔗](weekly-reports/2023_09_20_week_5.md)
+### [Week 6 🔗](weekly-reports/2023_09_25_week_6.md)
 
 
 
