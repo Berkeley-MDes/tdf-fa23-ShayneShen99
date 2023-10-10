@@ -5,11 +5,10 @@
 ### [Week 2 🔗](weekly-reports/2023_08_28_week_2.md)
 ### [Week 3 🔗](weekly-reports/2023_09_06_week_3.md)
 ### [Week 4 👑](weekly-reports/2023_09_12_week_4.md)
-
 ### [Week 5 🔗](weekly-reports/2023_09_20_week_5.md)
 ### [Week 6 🔗](weekly-reports/2023_09_25_week_6.md)
-
 ### [Week 7 🔗](weekly-reports/2023_10_03_week_7.md)
+### [Week 7 🔗](weekly-reports/2023_10_10_week_8.md)
 
 
 
