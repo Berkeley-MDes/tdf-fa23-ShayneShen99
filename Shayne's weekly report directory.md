@@ -8,7 +8,7 @@
 ### [Week 5 🔗](weekly-reports/2023_09_20_week_5.md)
 ### [Week 6 🔗](weekly-reports/2023_09_25_week_6.md)
 ### [Week 7 🔗](weekly-reports/2023_10_03_week_7.md)
-### [Week 7 🔗](weekly-reports/2023_10_10_week_8.md)
+### [Week 8 🔗](weekly-reports/2023_10_10_week_8.md)
 
 
 
