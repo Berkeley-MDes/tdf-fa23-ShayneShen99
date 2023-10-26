@@ -10,8 +10,7 @@
 ### [Week 7 🔗](weekly-reports/2023_10_03_week_7.md)
 ### [Week 8 🔗](weekly-reports/2023_10_10_week_8.md)
 ### [Week 9 🔗](weekly-reports/2023_10_16_week_9.md)
-
-
+### [Week 10 🔗](weekly-reports/2023_10_25_week_10.md)
 
 
 
